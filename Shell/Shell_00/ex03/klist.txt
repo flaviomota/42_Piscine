@@ -1,0 +1,5 @@
+Credentials cache: API:FB39B5B8-A4A8-4340-902F-DB02092D217C
+        Principal: fmota@42LISBOA.COM
+
+  Issued                Expires               Principal
+Jan  7 11:41:16 2021  Jan  7 21:41:11 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
